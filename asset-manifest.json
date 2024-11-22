@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Digidit/Test/static/css/main.f5f087d9.css",
+    "main.js": "/Digidit/Test/static/js/main.00b31d50.js",
+    "static/js/453.56f46472.chunk.js": "/Digidit/Test/static/js/453.56f46472.chunk.js",
+    "index.html": "/Digidit/Test/index.html",
+    "main.f5f087d9.css.map": "/Digidit/Test/static/css/main.f5f087d9.css.map",
+    "main.00b31d50.js.map": "/Digidit/Test/static/js/main.00b31d50.js.map",
+    "453.56f46472.chunk.js.map": "/Digidit/Test/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f087d9.css",
+    "static/js/main.00b31d50.js"
+  ]
+}
